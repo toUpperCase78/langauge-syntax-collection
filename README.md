@@ -2,7 +2,7 @@
 
 **My collection of syntax structures of programming languages I've known...**
 
-**The programming languages available here are:** C, C++, Java, Python, Go, Ruby, Javascript
+**The programming languages available here are:** C, C++, C#, Java, Python, Go, Ruby, Javascript & bash
 
 The purpose of this repository is to bring these langauges together and compare their syntaxes against many common subjects. Therefore, my aim is to easily learn the similarities and differences between each other, and uniqueness of features for specific ones when applicable.
 
@@ -29,8 +29,10 @@ More different parts will come at a later date...
 ## IDEs I've Used
 
 - **C/C++:** Orwell Dev-C++ with TDM-GCC 4.9 compiler
+- **C#:** Visual Studio 2019 Community
 - **Java:** NetBeans 8.x with Java 8 JDK
 - **Python:** Python 3.7 IDLE and Spyder (Anaconda)
 - **Go:** Visual Studio Code for source and Go 1.12 for compilation
 - **Ruby:** Notepad++
 - **Javascript:** Visual Studio Code for source, embedded into HTML page; running in modern web browsers like Google Chrome. Developer tools must be opened to see the output in console.
+- **bash:** nano (when in Terminal) or default text editor, in Linux-based OS with bash shell
