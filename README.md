@@ -21,6 +21,7 @@ More different parts will come at a later date...
 - [ ] Loops
 - [ ] Strings
 - [ ] Arrays
+- [ ] Functions
 - [ ] Scientific operations
 - [ ] Read/write files
 - [ ] Object-oriented prog.
