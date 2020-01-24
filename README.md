@@ -2,7 +2,7 @@
 
 **My collection of syntax structures of programming languages I've known...**
 
-**The programming languages available here are:** C, C++, C#, Java, Python, Go, Ruby, Javascript & bash
+**The programming languages available here are:** C, C++, C#, Java, Python, Go, R, Ruby, Javascript & bash
 
 ![Language Syntax Collection](https://i.ibb.co/Kx8t1SW/language-ten-in-one.png)
 
