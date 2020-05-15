@@ -6,13 +6,19 @@
 
 ![Language Syntax Collection](https://i.ibb.co/Kx8t1SW/language-ten-in-one.png)
 
-The purpose of this repository is to bring these langauges together and compare their syntaxes against many common subjects. Therefore, my aim is to easily learn the similarities and differences between each other, and uniqueness of features for specific ones when applicable.
+The purpose of this repository is to bring these langauges together and compare their syntaxes among many common subjects. Therefore, my aim is to easily learn the similarities and differences between each other, and uniqueness of features for specific ones when applicable.
 
 _This repository project will progress slowly, a time-consuming one; meaning that codes will be available here after some research and making sure that they work with no errors..._
 
-First of all, you can find "Hello, World!" output codes in the directory _01 - Hello World_.
+_Furthermore, I'm aware that I haven't updated this for a long while!_
 
-More chapters will be added at a later date...
+Be parient, more chapters will be added at a later date...
+
+## Descriptions
+
+### 01 - Hello World
+
+In this directory, you can find the simple codes that output "Hello, World!" to the screen.
 
 ## Progress
 
